@@ -3,7 +3,7 @@
 For test 
 
 % 01
-1> lesson2_task01:last([a, b, c, d, e, f]).
+1> lesson2_task01:last([a, b, c, d, e, f]).\n
 Result
 f
 
