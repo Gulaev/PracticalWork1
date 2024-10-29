@@ -3,21 +3,25 @@
 For test 
 
 % 01
-1> lesson2_task01:last([a, b, c, d, e, f]).\n
+1> lesson2_task01:last([a, b, c, d, e, f]).
+
 Result
 f
 
 % 02
 2> lesson2_task02:but_last([a, b, c, d, e, f]).
+
 Result
 [e, f]
 
 % 03
 3> lesson2_task03:element_at([a, b, c, d, e, f], 4).
+
 Result
 d
 
 4> lesson2_task03:element_at([a, b, c, d, e, f], 10).
+
 Result
 undefined
 
